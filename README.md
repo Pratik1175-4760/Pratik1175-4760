@@ -9,9 +9,9 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝
 ```
 
-### `< Full-Stack Developer />` · `{ Embedded Systems }` · `[ AI Enthusiast ]`
+### `< VLSI Design Engineer />` · `{ RTL & Verification }` · `[ Embedded Systems ]`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+SDE+Aspirant+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%7C+REST+APIs;Fast+Learner+%7C+Quick+Adapter+%E2%9A%A1;Unique+Edge%3A+Full-Stack+%2B+Embedded+%F0%9F%94%A7;Open+to+SDE+%26+Backend+Engineering+Roles+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=VLSI+%7C+RTL+Design+%7C+Verification+%F0%9F%94%AC;Verilog+%7C+Cadence+Virtuoso+%7C+Vivado;IEEE+754+FP-ALU+on+Spartan-7+FPGA+%F0%9F%9A%80;Samsung+Fellowship+2025+Awardee+%F0%9F%8F%85;Embedded+%2B+VLSI+%3D+Rare+Combo+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Pratik1175-4760&label=Profile+Views&color=00d9ff&style=flat-square" />
 
@@ -21,20 +21,49 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const pratik = {
-  name:        "Pratik Shivaji Yadav",
-  college:     "Pune Institute of Computer Technology",
-  degree:      "B.E. – Electronics & Telecommunication Engineering",
-  cgpa:        9.45,
-  location:    "Pune, Maharashtra 🇮🇳",
-  corefocus:   "Full-Stack Development & SDE Roles 🎯",
-  currentFocus: ["React + Node.js", "REST APIs & Auth", "DSA"],
-  superpower:  "Fast learner who ships quickly ⚡",
-  lookingFor:  "SDE / Full-Stack / Backend Engineering Roles & Internships",
-  edge:        "Full-Stack skills + Embedded background = rare combo 🔧→💻"
-};
+```verilog
+module pratik_yadav (
+  input  wire  curiosity,
+  input  wire  hard_work,
+  output reg   vlsi_engineer
+);
+
+  parameter NAME     = "Pratik Shivaji Yadav";
+  parameter COLLEGE  = "Pune Institute of Computer Technology (PICT)";
+  parameter DEGREE   = "B.E. – Electronics & Telecommunication Engineering";
+  parameter CGPA     = 9.45;
+  parameter LOCATION = "Pune, Maharashtra";
+
+  parameter CORE_FOCUS  = "VLSI Design | RTL | Verification | Physical Design";
+  parameter TOOLS       = "Cadence Virtuoso | Vivado | Spectre | Verilog";
+  parameter EDGE        = "VLSI + Embedded + Web = End-to-end Hardware-Software depth";
+  parameter LOOKING_FOR = "VLSI Design | Verification | Embedded Engineering Roles";
+  parameter FELLOWSHIP  = "Samsung Fellowship 2025 — Semiconductor Research Grant";
+
+  always @(posedge curiosity) begin
+    vlsi_engineer <= hard_work & 1'b1;
+  end
+
+endmodule
 ```
+
+---
+
+## 🏅 Highlights
+
+<div align="center">
+
+| 🏆 | Achievement |
+|---|---|
+| 🔬 | **Samsung Fellowship 2025** — Semiconductor Research Grant by Samsung India |
+| 🎓 | **Summer Training on VLSI Design** — IIIT Allahabad (2025) |
+| 🛠️ | **50-Hour Cadence Workshop** — Virtuoso & Spectre (2025) |
+| 💡 | **India Semiconductor Workforce Program** — Synopsys & Samsung (2025) |
+| 📘 | **VLSI Design Methodologies & SoC Design** — Maven Silicon (2025) |
+| 🥇 | **Student of the Year** — Government Polytechnic, Karad (2024) |
+| 🍼 | **1st Prize – Best Capstone Project** — IoT Smart Baby Cradle (2024) |
+
+</div>
 
 ---
 
@@ -42,42 +71,37 @@ const pratik = {
 
 <div align="center">
 
-**Languages**
+**HDL & Hardware Design**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-RTL_Design-blueviolet?style=for-the-badge&logo=v&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-Xilinx_Spartan--7-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-Synthesis_%26_Impl-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
+
+**Cadence EDA**
+
+![Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso_Schematic-0033A0?style=for-the-badge&logoColor=white)
+![Spectre](https://img.shields.io/badge/Cadence-Spectre_Simulator-0033A0?style=for-the-badge&logoColor=white)
+![ADE](https://img.shields.io/badge/Cadence-ADE_L%2FXL-0033A0?style=for-the-badge&logoColor=white)
+
+**Programming Languages**
+
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blueviolet?style=for-the-badge)
+![C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend**
+**Embedded & Protocols**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI / Cloud / Tools**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Embedded**
-
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![UART](https://img.shields.io/badge/UART-Protocol-007ACC?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-Protocol-007ACC?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-Protocol-007ACC?style=for-the-badge)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -85,34 +109,45 @@ const pratik = {
 
 ## 🚀 Featured Projects
 
-### 🔍 Campus Lost & Found — AI Integrated Platform
-> *Presented at College Hackathon*
+### ⚡ Web-Integrated Hardware Accelerator — 32-Bit Floating Point ALU
+> *Verilog · Xilinx Spartan-7 FPGA · Node.js · UART*
 
-A full-stack platform that uses **TensorFlow image similarity** to automatically match lost item photos with found submissions — solving a real campus problem with AI.
+Designed and implemented a **32-bit IEEE 754 compliant FP-ALU** on Xilinx Spartan-7 FPGA (XC7S50) in Verilog, bridging hardware and web.
 
-- 🧠 TensorFlow model for image-based item matching
-- 🔐 JWT Authentication & Role-based Authorization (student / admin)
-- ☁️ Cloudinary for scalable image upload & delivery
-- 🗃️ MongoDB + Express.js REST API backend
-- ⚛️ React frontend
+- 🔢 Supports **FADD, FSUB, FMUL, FDIV, FCMP** with full exception handling (NaN, Inf, Overflow, Underflow)
+- 🏗️ Pipelined RTL architecture: 5-stage FADD/FSUB, 4-stage DSP48 FMUL, 24-cycle iterative FDIV
+- 🔌 UART interface (115200 baud) for PC-to-FPGA 9-byte packets
+- 🌐 Node.js backend + HTML/JS frontend for real-time web-based operation
+- ✅ Synthesized & verified in Xilinx Vivado against IEEE 754 reference values
 
 ---
 
-### 🏡 Airbnb Clone — Full-Stack Rental Platform
+### 🔬 Verilog RTL Design Portfolio — 25+ Designs on GitHub
+> *Verilog · Vivado · FSMs · Memory · Arithmetic*
 
-End-to-end property rental platform with production-grade auth and a clean REST API.
+A comprehensive RTL design portfolio covering a wide range of digital circuits.
 
-- 🔐 JWT + bcrypt authentication with protected routes & session management
-- 🏗️ Full CRUD for property listings, search & filter, booking management
-- 🗃️ MongoDB + Express.js REST API
-- ⚛️ Responsive React frontend with dynamic dashboards
+- ➕ **4-Bit ALU** (signed/unsigned, 8 operations) — 100% functional coverage
+- 📦 **16-bit Synchronous FIFO** with overflow protection — 95% R/W efficiency
+- 🔄 **Moore & Mealy FSMs** — 1101 sequence detector
+- 🧮 **PIPO, LFSR, RAMs, Clock Dividers** and more
+
+---
+
+### 🔌 Analog & Digital Design — Cadence EDA Suite
+> *Cadence Virtuoso · Spectre Simulator · ADE L/XL*
+
+Hands-on analog and digital circuit design using industry-standard Cadence tools.
+
+- 📐 Simulated **current mirrors** with DC, AC, and transient analysis in Spectre
+- 🔧 Designed and verified **inverter, basic gates, 2:1 MUX, half/full adder, Op-Amp** in Virtuoso
 
 ---
 
 ### 🍼 IoT Smart Baby Cradle — Award Winning 🏆
-> *1st Prize — Best Capstone Project 2024*
+> *1st Prize — Best Capstone Project 2024 · ESP32 · Firebase*
 
-ESP32-powered smart cradle with cry detection, urine sensing, Firebase cloud integration and mobile app control. Reduced caregiver effort by ~30%.
+ESP32-powered smart cradle with cry detection, urine sensing, Firebase cloud integration, and mobile app control. Reduced caregiver effort by ~30%.
 
 ---
 
@@ -145,16 +180,6 @@ ESP32-powered smart cradle with cry detection, urine sensing, Firebase cloud int
 
 ---
 
-## 🏅 Achievements
-
-| 🏆 Award | 📍 Where | 📅 Year |
-|---|---|---|
-| Student of the Year | Government Polytechnic, Karad | 2024 |
-| 1st Prize – Best Capstone Project | IoT Smart Baby Cradle | 2024 |
-| 9.45 CGPA | Pune Institute of Computer Technology | Ongoing |
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -165,7 +190,7 @@ ESP32-powered smart cradle with cry detection, urine sensing, Firebase cloud int
 
 ---
 
-"Core focus: Full-Stack & SDE roles 🎯 | Embedded background as a bonus edge ⚡" ⚡
+*"Designing silicon from RTL to silicon — one clock cycle at a time. ⚡"*
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer)
 
